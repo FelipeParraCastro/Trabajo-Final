@@ -1,0 +1,85 @@
+* {
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.table{
+	background-color: #fff;
+}
+
+p {
+	max-height: 14px;
+	width: 0px auto;
+	margin: 0px auto;
+	padding: auto;
+}
+
+.btn{
+	margin: 0px;
+	min-width: 100%;
+}
+
+a:link.a, a:visited.a, a:active.a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover.lea, a:focus.lea{
+    color: #fec107 !important;
+}
+
+a:hover.cr, a:focus.cr{
+    color: #8802AD !important;
+}
+
+a:hover.cd, a:focus.cd{
+    color: #0d6efd !important;
+}
+
+a:hover.fm, a:focus.fm{
+    color: #dc3546 !important;
+}
+
+a:hover.gne, a:focus.gne{
+    color: #188754 !important;
+}
+
+a:hover.ccb, a:focus.ccb{
+    color: #0dcaf0 !important;
+}
+
+.btn-mora{
+	background: #8802AD !important;
+	border-color: #A100CD !important;
+}
+
+.btn-mora:active, .btn-mora:hover, .btn-mora:focus{
+	background: #9200BA !important;
+	border-color: #A100CD !important;
+	
+}
+
+.contenedor{
+	padding: auto;
+	margin: auto;
+	background: rgba(100,100,100,.7);
+}
+
+.menu{
+	padding: auto;
+	background: rgba(25,25,25,.9);
+	justify-content:space-between;
+	align-items:center;
+	color: #fff;
+}
+
+header, footer{
+	padding: 20px;
+	background: rgba(0,102,255,.65);
+	justify-content:space-between;
+	align-items:center;
+	color: #fff;
+}
